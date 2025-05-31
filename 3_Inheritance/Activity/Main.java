@@ -11,7 +11,7 @@ public class Main {
         
         System.out.println("\n----- Your Task -----");
         System.out.println("1. Create two classes that extend Vehicle:");
-        System.out.println("   - Car with an additmional 'numDoors' field");
+        System.out.println("   - Car with an additional 'numDoors' field");
         System.out.println("   - Motorcycle with an additional 'hasSidecar' field");
         System.out.println("2. Override the startEngine() method in both classes to print a more specific message");
         System.out.println("3. Override the getInfo() method to include the additional information");
