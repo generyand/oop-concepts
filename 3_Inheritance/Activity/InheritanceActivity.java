@@ -1,7 +1,7 @@
 /**
- * Main class for the inheritance activity
+ * InheritanceActivity class for the inheritance activity
  */
-public class Main {
+public class InheritanceActivity {
     public static void main(String[] args) {
         // Example usage of the base Vehicle class
         Vehicle genericVehicle = new Vehicle("Generic", "Vehicle", 2023);

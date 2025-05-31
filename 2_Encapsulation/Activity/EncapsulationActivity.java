@@ -1,7 +1,7 @@
 /**
  * Activity: Test the Student class with encapsulation
  */
-public class Main {
+public class EncapsulationActivity {
     public static void main(String[] args) {
         // TODO: Create a Student object with an id, name, and gpa
         

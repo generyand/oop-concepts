@@ -1,7 +1,7 @@
 /**
  * Activity: Create Book objects and print their details
  */
-public class Main {
+public class ClassesObjectsActivity {
     public static void main(String[] args) {
         // TODO: Create at least two Book objects with different information
         

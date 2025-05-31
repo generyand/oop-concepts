@@ -1,7 +1,7 @@
 /**
- * Main class to demonstrate polymorphism
+ * PolymorphismDemo class to demonstrate polymorphism
  */
-public class Main {
+public class PolymorphismDemo {
     public static void main(String[] args) {
         // Create shape objects
         Shape genericShape = new Shape("Generic");

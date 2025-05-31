@@ -1,7 +1,7 @@
 /**
- * Main class to demonstrate abstraction
+ * AbstractionDemo class to demonstrate abstraction
  */
-public class Main {
+public class AbstractionDemo {
     public static void main(String[] args) {
         // Cannot instantiate abstract class
         // Shape shape = new Shape("Generic"); // This would cause a compilation error

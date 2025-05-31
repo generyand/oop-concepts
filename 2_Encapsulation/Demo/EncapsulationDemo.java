@@ -1,7 +1,7 @@
 /**
- * Main class to demonstrate encapsulation with BankAccount
+ * EncapsulationDemo class to demonstrate encapsulation with BankAccount
  */
-public class Main {
+public class EncapsulationDemo {
     public static void main(String[] args) {
         // Create a bank account
         BankAccount account = new BankAccount("ACC12345", "John Smith");

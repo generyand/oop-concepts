@@ -1,7 +1,7 @@
 /**
- * Main class to demonstrate inheritance
+ * InheritanceDemo class to demonstrate inheritance
  */
-public class Main {
+public class InheritanceDemo {
     public static void main(String[] args) {
         // Create an instance of the parent class
         Animal genericAnimal = new Animal("Generic Animal", 5);

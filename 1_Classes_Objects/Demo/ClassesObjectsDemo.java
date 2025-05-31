@@ -1,7 +1,7 @@
 /**
- * Main class to demonstrate creating and using objects
+ * ClassesObjectsDemo class to demonstrate creating and using objects
  */
-public class Main {
+public class ClassesObjectsDemo {
     public static void main(String[] args) {
         // Creating objects (instances) of the Book class
         Book harryPotter = new Book("Harry Potter and the Sorcerer's Stone", "J.K. Rowling", 320);
